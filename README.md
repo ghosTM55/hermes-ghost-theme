@@ -4,10 +4,15 @@ A custom Hermes Agent CLI theme: `mono-ghost`.
 
 It is a dark, high-contrast terminal skin with cyan accents, a retro MS-DOS / Windows 3.x banner, and minimal spinner styling.
 
+## Preview
+
+![Hermes Ghost Theme preview](assets/preview.png)
+
 ## Files
 
 ```text
 skins/mono-ghost.yaml
+assets/preview.png
 ```
 
 The Hermes Agent skin file.
@@ -21,6 +26,8 @@ It configures:
 - `tool_emojis`: per-tool emoji overrides. Currently empty.
 - `banner_logo`: custom Rich-markup ASCII logo.
 - `banner_hero`: custom Rich-markup Windows 3.x style hero art.
+
+The preview image shows the theme running in Hermes Agent.
 
 ## Install
 
