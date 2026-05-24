@@ -72,3 +72,10 @@ Restart Hermes after changing the default config.
 ## Follow me on Twitter
 
 - [@ghosTM55](https://x.com/ghostm55)
+
+## License
+
+This project is source-available for non-commercial use under the
+PolyForm Noncommercial License 1.0.0.
+
+Commercial use is not permitted without separate written permission.
