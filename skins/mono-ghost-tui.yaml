@@ -18,6 +18,7 @@ colors:
   session_border: "#6f92a3"
   status_bar_bg: "#081018"
   voice_status_bg: "#081018"
+  selection_bg: "#2b6f8f"
   completion_menu_bg: "#0a0e14"
   completion_menu_current_bg: "#123041"
   completion_menu_meta_bg: "#0a0e14"
